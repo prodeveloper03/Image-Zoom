@@ -24,7 +24,7 @@ buildscript {
 Then, add the library to your module `build.gradle`
 ```gradle
 dependencies {
-    implementation 'com.github.chrisbanes:PhotoView:latest.release.here'
+    implementation 'com.github.chrisbanes:PhotoView:2.0.0'
 }
 ```
 
