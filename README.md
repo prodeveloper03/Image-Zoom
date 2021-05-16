@@ -4,9 +4,12 @@ Image zoom aims to help produce an easily usable implementation of a zooming And
 
 
 ----------------------------------------------------
-                                              APP DEMO AND SCREENSHOTS
+						 FEATURE DEMO
 ----------------------------------------------------  
 
+
+
+https://user-images.githubusercontent.com/62813305/118403175-cca46500-b68a-11eb-8702-68bd6b0abdf5.mov
 
 
 
