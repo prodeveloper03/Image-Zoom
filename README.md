@@ -3,6 +3,13 @@ Image zoom aims to help produce an easily usable implementation of a zooming And
 
 
 
+----------------------------------------------------
+                                              APP DEMO AND SCREENSHOTS
+----------------------------------------------------  
+
+
+
+
 ## Dependency
 
 Add this in your root `build.gradle` file (**not** your module `build.gradle` file):
